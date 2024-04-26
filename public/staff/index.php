@@ -8,7 +8,10 @@
         <h2>Main Menu</h2>
         <ul>
             <li>
-                <a href="subjects/index.php">Subjects</a>
+                <a href="/staff/subjects/index.php">Subjects</a>
+            </li>
+            <li>
+                <a href="/staff/pages/index.php">Pages</a>
             </li>
         </ul>
     </div>

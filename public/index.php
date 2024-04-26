@@ -14,3 +14,13 @@
 </body>
 
 </html>
+
+Public
+staff
+pages
+index.php
+show.php
+subjects
+index.php
+show.php
+index.php
